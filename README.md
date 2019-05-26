@@ -6,7 +6,7 @@ May 2019
 
 The following application leverages a variety of APIs to bring the user information on a songs, concerts and movies. 
 
-The app deploys in the Node.js environment and works using the command prompt and /or the PowerShell or similar items.
+The app deploys in the Node.js environment. Output is viewed on the command prompt/ command line/ PowerShell etc.,
 
 ## Running the Application
 
