@@ -25,7 +25,18 @@ node liri-app.js commandName dataPoint
 node liri-app.js spotify-this-song piano hand
 ```
 
-### A screenshot of the terminal /bash window output
+## Screenshots of the terminal / bash window output
 
 ###### Output searching for a movie
 ![FirstScreenshot](/movie-this.PNG)
+
+###### Output searching for a movie with no datapoint entered
+
+![SecondScreenshot](/movie-this-noParameter.PNG)
+
+###### Output searching for a song
+![ThirdScreenshot](/spotify-this-song.PNG)
+
+###### Output searching for "do what it says"
+![FourthScreenshot](/do-what-it-says.PNG)
+
