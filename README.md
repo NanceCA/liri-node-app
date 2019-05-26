@@ -4,7 +4,7 @@ May 2019
 
 ## About the Liri Node App
 
-The following application leverages a variety of APIs to bring the user information on a songs, concerts and movies. 
+The following application leverages a variety of APIs to provide users information on songs, concerts and movies.
 
 The app deploys in the Node.js environment. Output is viewed on the command prompt/ command line/ PowerShell etc.,
 
@@ -26,3 +26,6 @@ node liri-app.js spotify-this-song piano hand
 ```
 
 ### A screenshot of the terminal /bash window output
+
+###### Output searching for a movie
+![FirstScreenshot](/movie-this.PNG)
